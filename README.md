@@ -19,6 +19,4 @@ I'm currently working on frontend developer <br>I'm a UI/UX designer <br>I'm lea
 ![](https://github-contributor-stats.vercel.app/api?username=Forcebhai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-Forcebhai/Forcebhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
